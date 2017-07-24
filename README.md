@@ -4,7 +4,7 @@
 
 - show how to integrate robot with IYO & create some demo robot using this feature
 
-## integration process
+## demo bot
 
 - onboarding on IYO
   - user registers (is already on telegram) in IYO by using IYO bot
@@ -26,7 +26,7 @@
   - do the authentication on IYO by sending right login url (telegram id needs to be in, this does re-verification)
   - bot keeps on polling the IYO authentication API (see above) that the user did it, if not done < 1 min ask again, ... untill user is online.
 
-## iyo bot (v2)
+## iyo bot
 
 - this bot gives people support on IYO
 - this bot allows peope to register on IYO without having to go to IYO website
